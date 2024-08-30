@@ -91,3 +91,8 @@ figure {
     font-weight: 800;
   }
 }
+
+#ai img {
+  width: 176px;
+  height: 176px;
+}
