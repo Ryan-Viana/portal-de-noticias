@@ -55,17 +55,22 @@ section header {
 
     padding: 24px;
 
+
     &:has(.text-lg) {
       padding: 12px;
     }
 
     h2 {
-      margin-top: 8px;
+      margin-top: 22px;
     }
   }
 
 }
 
+}
+#robo {
+  
+  margin-top: 8px;
 }
 
 #weekly { 
